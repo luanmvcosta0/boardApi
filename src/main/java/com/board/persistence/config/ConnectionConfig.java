@@ -1,4 +1,4 @@
-package com.board.config;
+package com.board.persistence.config;
 
 import lombok.NoArgsConstructor;
 

@@ -1,4 +1,4 @@
-package com.board.converter;
+package com.board.persistence.converter;
 
 import lombok.NoArgsConstructor;
 

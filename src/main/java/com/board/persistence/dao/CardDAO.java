@@ -1,6 +1,6 @@
-package com.board.dao;
+package com.board.persistence.dao;
 
-import com.board.entity.CardEntity;
+import com.board.persistence.entity.CardEntity;
 import lombok.AllArgsConstructor;
 
 import java.sql.Connection;

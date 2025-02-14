@@ -1,7 +1,7 @@
-package com.board.dao;
+package com.board.persistence.dao;
 
 import br.com.dio.persistence.entity.BoardEntity;
-import com.board.entity.BoardEntity;
+import com.board.persistence.entity.BoardEntity;
 import com.mysql.cj.jdbc.StatementImpl;
 import lombok.AllArgsConstructor;
 

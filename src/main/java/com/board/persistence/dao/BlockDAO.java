@@ -1,4 +1,4 @@
-package com.board.dao;
+package com.board.persistence.dao;
 
 import lombok.AllArgsConstructor;
 

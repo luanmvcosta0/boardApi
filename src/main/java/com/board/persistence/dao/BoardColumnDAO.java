@@ -1,6 +1,6 @@
-package com.board.dao;
+package com.board.persistence.dao;
 
-import com.board.entity.BoardColumnEntity;
+import com.board.persistence.entity.BoardColumnEntity;
 import lombok.RequiredArgsConstructor;
 
 import java.sql.Connection;

@@ -1,4 +1,4 @@
-package com.board.entity;
+package com.board.persistence.entity;
 
 import lombok.Data;
 

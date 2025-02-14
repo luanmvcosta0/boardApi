@@ -1,4 +1,4 @@
-package com.board.migration;
+package com.board.persistence.migration;
 
 import lombok.AllArgsConstructor;
 
